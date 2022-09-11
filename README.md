@@ -52,7 +52,7 @@ First, make sure you have all these installed on your local machine & then conti
 
 ```bash
 # Clone the repository
-git clone https://github.com/ItsRoy69/Devmeet.git
+git clone https://github.com/sayaksengupta/HackOdisha2022.git
 # Enter into the client
 cd client
 npm install

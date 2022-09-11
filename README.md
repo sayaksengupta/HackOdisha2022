@@ -1,5 +1,6 @@
 <p align="center">   
-   <img src="https://user-images.githubusercontent.com/78967360/163656629-cf9a86e4-e6b0-40af-8506-1e3257b9b19c.png" width="100%">
+  <img src="https://user-images.githubusercontent.com/78967360/189532816-4741dbcc-d23d-49d9-b1f6-589e95fd7e05.png" />
+
 
    <h1 align="center">Devmeet</h1>
    <p align="center">Easily find people for your hackathons & projects!</p>
@@ -35,8 +36,10 @@ Link: https://devmeet.netlify.app/
 <img src="https://user-images.githubusercontent.com/72182438/162618669-2f6e256b-6923-4866-9b13-97c75e97719b.svg" width="100%">
 
 ## Some snapshots of our web app
-<img src="https://user-images.githubusercontent.com/78967360/163703449-ea5dd0da-2f17-49d2-9669-5e12adade947.png" width="100%">
-<img src="https://user-images.githubusercontent.com/78967360/163703244-27f54eeb-30df-4922-813c-60eedf07d278.png" width="100%">
+![2022-09-11 (5)](https://user-images.githubusercontent.com/78967360/189532837-582e1fe0-b24b-401d-a4f1-097f2266c57b.png)
+
+![2022-09-11 (6)](https://user-images.githubusercontent.com/78967360/189532850-36ca19da-2b10-465e-9ccc-3ab1d65f2e28.png)
+
 
 ## Getting started
 
@@ -69,10 +72,3 @@ npm start
 # To start server application
 npm run start
 ```
-
-## Team
-
-<a href="https://github.com/anomic30/Chatterpay-discord-bot/graphs/contributors">
-  <img src="https://user-images.githubusercontent.com/78967360/161389591-4bb7b875-5c81-404c-9ae2-80bdc2e44d80.png" />
-</a>
-
